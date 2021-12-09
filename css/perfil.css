@@ -1,0 +1,13 @@
+.perfil-content {
+    margin-top: 6rem;
+}
+
+.form-control{
+    /*padding: 20px 40px;*/
+    background-color: #F0EEF4;
+}
+
+.form-svg {
+    position: absolute; 
+    margin: 13px 0 0 15px;
+}
